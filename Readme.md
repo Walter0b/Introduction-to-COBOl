@@ -18,8 +18,8 @@ The COBOL program in this repository, `READTESTDATA.cbl`, is designed to read da
 The `weather2020.dat` file has the following format:
 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 |
-markdown
-Copy code
+
+
 
 ## HTTP Request Program
 
@@ -38,12 +38,12 @@ Make sure you replace `"link"` in the `MOVE "wget 'link"` line with the actual U
 
 ## Repository Structure
 
-.
+.<br/>
 ├── READTESTDATA.cbl
-└── HTTP-REQUEST.cbl
+<br/>└── HTTP-REQUEST.cbl
 
-rust
-Copy code
+
+
 
 Feel free to modify and use these programs as needed for your projects.
 
